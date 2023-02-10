@@ -2,26 +2,27 @@
 A To-Do List is a simple application that helps users keep track of their daily tasks and goals. With this app, users can easily create, edit and delete tasks and check them off when they're done.
 
 # Features
-User authentication and authorization
-Create, edit and delete tasks
-Mark tasks as complete or incomplete
-Prioritize tasks with different colors
-Set due dates for tasks
-Filter tasks based on completion status and due date
+- User authentication and authorization
+- Create, edit and delete tasks
+- Mark tasks as complete or incomplete
+- Prioritize tasks with different colors
+- Set due dates for tasks
+- Filter tasks based on completion status and due date
 
-#Tech Stack
+# Tech Stack
 This To-Do List project is built with the following technologies:
 
-Frontend: ReactJS
-Backend: NodeJS with ExpressJS
-Database: MongoDB
+- Frontend: ReactJS
+- Backend: Golang
+- Database: MongoDB with AWS integration
 
 # Requirements
 Before you start using this To-Do List app, make sure you have the following installed on your local machine:
 
-NodeJS
-npm
-MongoDB
+- NodeJS
+- npm
+- MongoDB
+- Golang
 
 # Installation
 To install and run this To-Do List project on your local machine, follow these steps:
